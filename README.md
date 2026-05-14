@@ -71,28 +71,6 @@ Hvad hedder hans barn?
 Hvor gammel er hans barn?
 ```
 
-### 中文提示
-
-```text
-Hvad hedder han?
-他叫什么名字？
-
-Hvor kommer han fra?
-他来自哪里？
-
-Hvor gammel er han?
-他多大？
-
-Hvilket sprog taler han?
-他说什么语言？
-
-Hvad laver han?
-他做什么工作？
-
-Har han et barn?
-他有孩子吗？
-```
-
 ### B. 回答问题
 
 ```text
